@@ -1,0 +1,105 @@
+{
+  "name": "Fantasma Menu",
+  "timestamp": "2022-02-05T09:17:55.149Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://https://fantasma.network/assets/images/banner/b1.png",
+  "keywords": [
+    "fantasma",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "Aave",
+      "address": "0x6a07A792ab2965C72a5B8088d3a069A7aC3a993B",
+      "symbol": "AAVE",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/aave.jpg"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
+    },
+    {
+      "name": "fBNB",
+      "address": "0x27f26F00e1605903645BbaBC0a73E35027Dccd45",
+      "symbol": "fBNB",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/bnb.jpg"
+    },
+    {
+      "name": "fBTC",
+      "address": "0xe1146b9AC456fCbB60644c36Fd3F868A9072fc6E",
+      "symbol": "fBTC",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
+    },
+    {
+      "name": "fETH",
+      "address": "0x658b0c7613e890EE50B8C4BC6A3f41ef411208aD",
+      "symbol": "fETH",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg"
+    },
+    {
+      "name": "Fantasma",
+      "address": "0xae75A438b2E0cB8Bb01Ec1E1e376De11D44477CC",
+      "symbol": "FSM",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://https://fantasma.network/assets/images/banner/b1.png"
+    },
+    {
+      "name": "Fantom USD",
+      "address": "0xAd84341756Bf337f5a0164515b1f6F993D194E1f",
+      "symbol": "fUSD",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fusd.jpg"
+    },
+    {
+      "name": "ChainLink",
+      "address": "0xb3654dc3D10Ea7645f8319668E8F54d2574FBdC8",
+      "symbol": "LINK",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/link.jpg"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 250,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
+    },
+    {
+      "name": "Wrapped Bitcoin",
+      "address": "0x321162Cd933E2Be498Cd2267a90534A804051b11",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "chainId": 250,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/wbtc.jpg"
+    },
+    {
+      "name": "Wrapped Fantom",
+      "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+      "symbol": "WFTM",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ftm.jpg"
+    }
+  ]
+}
